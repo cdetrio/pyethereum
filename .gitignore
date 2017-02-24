@@ -17,9 +17,11 @@ __pycache__/
 /eggs/
 .installed.cfg
 logging.conf
-.*.log
+*.log
 .coverage
 /statedb/
 peers.json
 pyethereum/todo.txt
 pyethereum/monkeypatch.py
+.eggs
+.cache

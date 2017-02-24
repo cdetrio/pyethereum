@@ -1,7 +1,10 @@
-leveldb
 bitcoin
 pysha3
-miniupnpc
-bottle
-waitress
-six
+PyYAML
+repoze.lru
+pbkdf2
+pycryptodome>=3.3.1
+scrypt
+rlp>=0.4.4
+https://github.com/ethereum/ethash/tarball/master
+secp256k1
